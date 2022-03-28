@@ -2,7 +2,7 @@ package test;
 
 public class Marca {
     String nombre;
-    Marca(String nombre) {
+    public Marca(String nombre) {
         this.nombre = nombre;
     }
     public String getNombre() {
