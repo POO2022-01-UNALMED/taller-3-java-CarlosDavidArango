@@ -1,7 +1,9 @@
 package test;
 
 public class Marca {
-    String nombre;
+
+    private String nombre;
+    
     public Marca(String nombre) {
         this.nombre = nombre;
     }
