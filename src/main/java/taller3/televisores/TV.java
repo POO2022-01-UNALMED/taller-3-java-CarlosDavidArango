@@ -1,4 +1,4 @@
-package taller3;
+package taller3.televisores;
 
 public class TV {
     private Marca marca;
